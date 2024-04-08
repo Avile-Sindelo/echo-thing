@@ -1,0 +1,19 @@
+{
+  "name": "echo-thing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avile-Sindelo/echo-thing.git"
+  },
+  "author": "avile sindelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avile-Sindelo/echo-thing/issues"
+  },
+  "homepage": "https://github.com/Avile-Sindelo/echo-thing#readme"
+}
